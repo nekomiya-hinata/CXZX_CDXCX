@@ -1,0 +1,64 @@
+.main-content {
+	padding: 15px;
+}
+
+.content-title {
+	font-size: 20px;
+	color: #000000;
+	text-align: left;
+}
+
+.uni-easyinput {
+	height: 40px !important;
+	/* border-bottom: 1px solid #F6F6F6; */
+}
+
+.confirm-btn {
+	position: fixed;
+	bottom: 30px;
+	left: 15px;
+	width: calc(100% - 30px);
+	height: 40px;
+	line-height: 40px;
+	background-color: #0099FF;
+	color: #fff;
+	text-align: center;
+	border-radius: 20px;
+}
+
+input {
+	padding-left: 0px !important;
+}
+
+.address-li-content {
+	height: 84%;
+	/* overflow-y: scroll; */
+}
+
+.uni-modal .uni-modal__bd {
+	white-space: pre-wrap;
+}
+
+.is-edit .uni-easyinput__content {
+	border-color: #f70606 !important;
+}
+.comment-input .uni-easyinput__content{
+	border-color: #E5E5E5 !important;
+}
+.grid .uni-easyinput__content {
+	border-color: #e5e5e5 !important;
+}
+
+.is-edit .is-disabled {
+	border-color: #e5e5e5 !important;
+	background-color: #eee !important;
+}
+
+.edit-main .uni-forms-item{
+	border-bottom: 1px solid #f70606 !important;
+}
+.mark {}
+
+.demo-flex {
+	padding: 0 10px;
+}
